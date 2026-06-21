@@ -2,7 +2,8 @@
 __pycache__/
 *.py[codz]
 *$py.class
-
+llm-zoomcamp-hw2/models
+llm-zoomcamp-hw2/_pycache__
 # C extensions
 *.so
 .env
